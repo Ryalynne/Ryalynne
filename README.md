@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam](https://www.facebook.com/GIMMESOMEICECREAM/">「 Facebook 」</a>
+    <a href="https://www.facebook.com/GIMMESOMEICECREAM/">「 Facebook 」</a>
     <br>
     「 I am a full stack web application developer from <b>Philippines</b> 」
     <br>
